@@ -39,4 +39,4 @@ The best-performing model (128 hidden neurons) achieved high precision in digit 
 ## 🚀 How to Use
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/Teymer1/Handwritten-Digit-Classifier-from-Scratch](https://github.com/Teymer1/Handwritten-Digit-Classifier-from-Scratch)
+   git clone https://github.com/Teymer1/Handwritten-Digit-Classifier-from-Scratch
